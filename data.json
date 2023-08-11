@@ -20,6 +20,20 @@
             "size": "150 Gram",
             "harga": "150.000",
             "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_arabica-wamena.jpg",
+            "nama": "Kopi Arabica Wamena",
+            "size": "150 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_arabica-toraja.jpg",
+            "nama": "Kopi Arabica Toraja",
+            "size": "150 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
         }
     ],
     "robusta": [
@@ -36,16 +50,30 @@
             "size": "150 Gram",
             "harga": "150.000",
             "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_robusta_dampit_malang.jpg",
+            "nama": "Kopi Robusta Dampit Malang",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_robusta_jawa.jpg",
+            "nama": "Kopi Robusta Jawa",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_robusta_lampung.jpg",
+            "nama": "Kopi Robusta Lampung",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
         }
     ],
     "nonkopi": [
-        {
-            "foto": "images/produk/product_es_krim_melon.jpg",
-            "nama": "Es Krim Melon",
-            "size": "100 Gram",
-            "harga": "150.000",
-            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
-        },
         {
             "foto": "images/produk/product_es_krim_cokelat.jpg",
             "nama": "Es Krim cokelat",
@@ -54,11 +82,53 @@
             "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
         },
         {
+            "foto": "images/produk/product_es_krim_melon.jpg",
+            "nama": "Es Krim Melon",
+            "size": "100 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_es_serut.jpg",
+            "nama": "Es Serut",
+            "size": "100 Gram",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=tokopedia+es+serut&tbm=shop"
+        },
+        {
             "foto": "images/produk/product_es_teh.jpg",
             "nama": "Es Teh",
             "size": "100 Gram",
             "harga": "80.000",
             "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_boba.jpg",
+            "nama": "Boba",
+            "size": "100 Gram",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=tokopedia+boba&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_jus_jambu.jpg",
+            "nama": "Jus Jambu",
+            "size": "100 Gram",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=tokopedia+jus+jambu&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_jus_jeruk.jpg",
+            "nama": "Jus Jeruk",
+            "size": "100 Gram",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=tokopedia+jus+jeruk&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_jus_stroberi.jpg",
+            "nama": "Jus Stroberi",
+            "size": "100 Gram",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=tokopedia+jus+stroberi&tbm=shop"
         }
     ]
 }
