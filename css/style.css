@@ -57,7 +57,8 @@ dengan memberi nama family, maka kita mendaftarkan font tersebut ke dalam websit
 }
 
 body {
-      background-image: url(images/background/bgkopihitam.png);
+   body {
+      background-image: url(images/background/bgkopi.png);
       background-size: 20%;
   }
 
