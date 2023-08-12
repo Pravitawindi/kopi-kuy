@@ -143,34 +143,7 @@
             "size": "100 Gram",
             "harga": "80.000",
             "link": "https://www.google.com/search?q=tokopedia+es+teh&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_boba.jpg",
-            "nama": "Boba",
-            "size": "100 Gram",
-            "harga": "25.000",
-            "link": "https://www.google.com/search?q=tokopedia+boba&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_jus_jambu.jpg",
-            "nama": "Jus Jambu",
-            "size": "100 Gram",
-            "harga": "25.000",
-            "link": "https://www.google.com/search?q=tokopedia+jus+jambu&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_jus_jeruk.jpg",
-            "nama": "Jus Jeruk",
-            "size": "100 Gram",
-            "harga": "20.000",
-            "link": "https://www.google.com/search?q=tokopedia+jus+jeruk&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_jus_stroberi.jpg",
-            "nama": "Jus Stroberi",
-            "size": "100 Gram",
-            "harga": "25.000",
-            "link": "https://www.google.com/search?q=tokopedia+jus+stroberi&tbm=shop"
         }
+        
     ]
 }
