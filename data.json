@@ -20,41 +20,6 @@
             "size": "150 Gram",
             "harga": "150.000",
             "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_arabica-wamena.jpeg",
-            "nama": "Kopi Arabica Wamena",
-            "size": "150 Gram",
-            "harga": "200.000",
-            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_arabica-toraja.jpeg",
-            "nama": "Kopi Arabica Toraja",
-            "size": "150 Gram",
-            "harga": "100.000",
-            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_arabica_kintamani.jpeg",
-            "nama": "Kopi Arabica Kintamani",
-            "size": "150 Gram",
-            "harga": "150.000",
-            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_arabica_flores.jpeg",
-            "nama": "Kopi Arabica Flores",
-            "size": "200 Gram",
-            "harga": "200.000",
-            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_arabica_aceh_gayo.jpeg",
-            "nama": "Kopi Arabica Aceh Gayo",
-            "size": "150 Gram",
-            "harga": "150.000",
-            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
         }
     ],
     "robusta": [
@@ -70,48 +35,6 @@
             "nama": "Latte Robusta",
             "size": "150 Gram",
             "harga": "150.000",
-            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_robusta_dampit_malang.jpeg",
-            "nama": "Kopi Robusta Dampit Malang",
-            "size": "100 Gram",
-            "harga": "100.000",
-            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_robusta_jawa.jpeg",
-            "nama": "Kopi Robusta Jawa",
-            "size": "150 Gram",
-            "harga": "150.000",
-            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_robusta_lampung.jpeg",
-            "nama": "Kopi Robusta Lampung",
-            "size": "100 Gram",
-            "harga": "100.000",
-            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_robusta_temanggung.jpeg",
-            "nama": "Kopi Robusta Temanggung",
-            "size": "200 Gram",
-            "harga": "200.000",
-            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_robusta_sidikalang.jpeg",
-            "nama": "Kopi Robusta Sidikalang",
-            "size": "250 Gram",
-            "harga": "250.000",
-            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_robusta_solok.jpeg",
-            "nama": "Kopi Robusta Solok",
-            "size": "100 Gram",
-            "harga": "100.000",
             "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
         }
     ],
@@ -131,46 +54,11 @@
             "link": "https://www.google.com/search?q=tokopedia+es+cream&tbm=shop"
         },
         {
-            "foto": "images/produk/product_es_krim_vanila.jpeg",
-            "nama": "Es Krim Vanila",
-            "size": "100 Gram",
-            "harga": "25.000",
-            "link": "https://www.google.com/search?q=tokopedia+jus+stroberi&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_es_jeruk.jpeg",
-            "nama": "Es Jeruk",
-            "size": "100 Gram",
-            "harga": "20.000",
-            "link": "https://www.google.com/search?q=tokopedia+es+serut&tbm=shop"
-        },
-        {
             "foto": "images/produk/product_es_teh.jpg",
             "nama": "Es Teh",
             "size": "100 Gram",
             "harga": "80.000",
             "link": "https://www.google.com/search?q=tokopedia+es+teh&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_boba.jpeg",
-            "nama": "Boba",
-            "size": "100 Gram",
-            "harga": "25.000",
-            "link": "https://www.google.com/search?q=tokopedia+boba&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_jus_mangga.jpeg",
-            "nama": "Jus Mangga",
-            "size": "100 Gram",
-            "harga": "25.000",
-            "link": "https://www.google.com/search?q=tokopedia+jus+jambu&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_jus_stoberi.jpeg",
-            "nama": "Jus Stroberi",
-            "size": "100 Gram",
-            "harga": "20.000",
-            "link": "https://www.google.com/search?q=tokopedia+jus+jeruk&tbm=shop"
         }
         
     ]
