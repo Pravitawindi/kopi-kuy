@@ -34,6 +34,27 @@
             "size": "150 Gram",
             "harga": "100.000",
             "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_arabica_kintamani.jpg",
+            "nama": "Kopi Arabica Kintamani",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_arabica_flores.jpg",
+            "nama": "Kopi Arabica Flores",
+            "size": "200 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_arabica_aceh_gayo.jpg",
+            "nama": "Kopi Arabica Aceh Gayo",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
         }
     ],
     "robusta": [
@@ -70,6 +91,27 @@
             "nama": "Kopi Robusta Lampung",
             "size": "100 Gram",
             "harga": "100.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_robusta_solok.jpg",
+            "nama": "Kopi Robusta Solok",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_robusta_temanggung.jpg",
+            "nama": "Kopi Robusta Temanggung",
+            "size": "200 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_robusta_sidikalang.jpg",
+            "nama": "Kopi Robusta Sidikalang",
+            "size": "250 Gram",
+            "harga": "250.000",
             "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
         }
     ],
