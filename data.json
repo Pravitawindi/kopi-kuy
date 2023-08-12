@@ -89,6 +89,13 @@
             "link": "https://www.google.com/search?q=tokopedia+es+cream&tbm=shop"
         },
         {
+            "foto": "images/produk/product_es_jeruk.jpeg",
+            "nama": "Es Jeruk",
+            "size": "100 Gram",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=tokopedia+es+serut&tbm=shop"
+        },
+        {
             "foto": "images/produk/product_es_teh.jpg",
             "nama": "Es Teh",
             "size": "100 Gram",
